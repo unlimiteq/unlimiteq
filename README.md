@@ -9,8 +9,8 @@
 ### Tech I work with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,rust,kotlin,androidstudio,py,js,git,vscode&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,kotlin,androidstudio,py,js,git,vscode&theme=light" alt="C#, .NET, Rust, Kotlin, Android, Python, JavaScript, Git, VS Code" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,rust,kotlin,java,androidstudio,py,js,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,kotlin,java,androidstudio,py,js,git,vscode&theme=light" alt="C#, .NET, Rust, Kotlin, Java, Android, Python, JavaScript, Git, VS Code" />
 </picture>
 
 <br/><br/>
